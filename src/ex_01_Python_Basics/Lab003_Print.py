@@ -1,0 +1,8 @@
+print("Hello World")
+# print(self, *args, sep=' ', end='\n', file=None)
+# self- ignore(It is OOPs concept)
+print("Komal", 15, "Pawar")
+print("Komal", 15, "Pawar", True, 3.14)
+print("Komal", 15, "Pawar", True, 3.14, sep='*', end='@')
+print("Komal", 15, "Pawar", True, 3.14, sep='*')
+print("hi")

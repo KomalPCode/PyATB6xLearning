@@ -1,0 +1,1 @@
+print("Komal", 15, "Pawar", True, 3.14, sep='*', end='_')
