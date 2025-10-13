@@ -1,0 +1,1 @@
+print("Komal", "Kranti", "Karishma")
